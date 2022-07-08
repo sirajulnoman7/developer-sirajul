@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.top-add {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.top-noman {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+section {
+    display: flex
+}
+
+.top-div {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-color {
+    color: blue;
+}
+
+.link-color {
+    background-image: linear-gradient(orange, tomato);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 100px;
+    text-decoration: none;
+
+}
